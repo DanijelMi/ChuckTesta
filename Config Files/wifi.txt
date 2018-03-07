@@ -1,3 +1,3 @@
 SSID=HouseBold
-NetworkKey=2i2d4srbsd
+NetworkKey=pass
 StaticIP=192.168.1.41
