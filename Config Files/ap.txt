@@ -1,0 +1,7 @@
+ssid=Proto
+password=micropython
+channel=6
+#hidden - 0:NOT HIDDEN, 1: HIDDEN
+hidden=0
+#authmode - 0:OPEN, 1:WEP, 2:WPA-PSK, 3:WPA2-PSK, 4:WPA/WPA2-PSK
+authmode=3

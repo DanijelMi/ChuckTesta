@@ -1,0 +1,4 @@
+mosquitto_sub -u dane -P sauce -p 8116 -t light -h 192.168.1.40
+mosquitto_pub -u dane -P sauce -t light -p 8116 -h 192.168.1.40 -m "RA"
+
+ampy --port COM3 put proto.py
